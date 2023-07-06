@@ -3,9 +3,9 @@ export const APP_ID = '386b1518-583b-4acc-8bb5-d30d76744fc0'
 export const API_KEY = 'app-m73s3vVZrTimLf4LRBDFerMP'
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
-  title: 'Text Generator APP',
-  description: 'App description',
-  copyright: '',
+  title: '劳动法法律咨询',
+  description: '公司欠薪、裁员处理、劳务仲裁，准确回复',
+  copyright: 'Lawcode',
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
